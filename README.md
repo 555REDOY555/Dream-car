@@ -7,7 +7,7 @@ This is a site where you can coare your self
 ## features and functionality
 
 -  In `"Home"` page you can see some cars  . Here you can see 6  cars.
--In header you can see `Find more` Onclick it will take you to the `Explore` page.There is `Ten` cars that you can buy.
+-In header you can see `Find more` Onclick it will take you to the `Find more` page.There is `Ten` cars that you can buy.
 
 -  In `Home` page you can see six kind of cars. That can help you in your eaily life.
 
